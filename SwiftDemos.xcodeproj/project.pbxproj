@@ -14,6 +14,7 @@
 		58FBAFE42738569F00F9407B /* SwiftDemosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58FBAFE32738569F00F9407B /* SwiftDemosTests.swift */; };
 		58FBAFEE2738569F00F9407B /* SwiftDemosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58FBAFED2738569F00F9407B /* SwiftDemosUITests.swift */; };
 		58FBAFF02738569F00F9407B /* SwiftDemosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58FBAFEF2738569F00F9407B /* SwiftDemosUITestsLaunchTests.swift */; };
+		58FBAFFD2738570A00F9407B /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58FBAFFC2738570A00F9407B /* ColorPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		58FBAFE92738569F00F9407B /* SwiftDemosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftDemosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		58FBAFED2738569F00F9407B /* SwiftDemosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDemosUITests.swift; sourceTree = "<group>"; };
 		58FBAFEF2738569F00F9407B /* SwiftDemosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDemosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		58FBAFFC2738570A00F9407B /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				58FBAFD42738569E00F9407B /* ContentView.swift */,
 				58FBAFD62738569F00F9407B /* Assets.xcassets */,
 				58FBAFD82738569F00F9407B /* Preview Content */,
+				58FBAFFC2738570A00F9407B /* ColorPickerView.swift */,
 			);
 			path = SwiftDemos;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				58FBAFD52738569E00F9407B /* ContentView.swift in Sources */,
 				58FBAFD32738569E00F9407B /* SwiftDemosApp.swift in Sources */,
+				58FBAFFD2738570A00F9407B /* ColorPickerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
